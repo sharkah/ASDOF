@@ -1,15 +1,15 @@
 /**
 * @author Alan Turing <alan.turing@acm.org>
 *
-* Esta aplicación calcula el logaritmo Neperiano de su primer parámetro.
+* Esta aplicaciï¿½n calcula el logaritmo Neperiano de su primer parï¿½metro.
 */
 public class Ordenar {
 /**
-* Punto de entrada a la aplicación.
+* Punto de entrada a la aplicaciï¿½n.
 *
-* Este método imprime el logaritmo Neperiano del número que se le pasa como entrada
+* Este mï¿½todo imprime el logaritmo Neperiano del nï¿½mero que se le pasa como entrada
 *
-* @param args Los argumentos de la línea de comando. Se espera un número como primer parámetro
+* @param args Los argumentos de la lï¿½nea de comando. Se espera un nï¿½mero como primer parï¿½metro
 */
 	public static void main(String[] args) {
 		
@@ -92,7 +92,7 @@ public class Ordenar {
 		if (par_flag==0)
 			System.out.println("La mediana es " + numeros[(t/2)+1] +"\n");
 
-
+		PENEs
 
 		else if (par_flag==1)
 		{
