@@ -92,8 +92,6 @@ public class Ordenar {
 		if (par_flag==0)
 			System.out.println("La mediana es " + numeros[(t/2)+1] +"\n");
 
-		PENEs
-
 		else if (par_flag==1)
 		{
 			int pos = (int) t/2;
